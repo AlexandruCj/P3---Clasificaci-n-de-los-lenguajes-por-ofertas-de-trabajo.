@@ -1,4 +1,4 @@
-# P3---Clasificaci-n-de-los-lenguajes-por-ofertas-de-trabajo.
+# P3-Clasificación de los lenguajes por ofertas de trabajo.
 ### Lenguajes a clasificar:
 >los filtros que puse son: Jornada completa y Desarrollo de software
 * Java:
