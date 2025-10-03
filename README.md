@@ -56,4 +56,10 @@
     ![Resultado a nivel español](https://github.com/AlexandruCj/P3---Clasificaci-n-de-los-lenguajes-por-ofertas-de-trabajo./blob/main/Ruby%20Espa%C3%B1a.png)
   * A nivel Mundial: hay 421 resultado de empleos
     > esta es una foto de los resultados a nivel mundial y una oferta de empleo en Brasil
-    ![Resultado  nivel mundial](https://github.com/AlexandruCj/P3---Clasificaci-n-de-los-lenguajes-por-ofertas-de-trabajo./blob/main/Ruby%20Mundial.png)    
+    ![Resultado  nivel mundial](https://github.com/AlexandruCj/P3---Clasificaci-n-de-los-lenguajes-por-ofertas-de-trabajo./blob/main/Ruby%20Mundial.png)
+
+ # TABLA COMPARATIVA
+
+| Lenguajes | Col 2 |
+| --------- | ------|
+| A     | B     |
