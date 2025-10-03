@@ -59,7 +59,29 @@
     ![Resultado  nivel mundial](https://github.com/AlexandruCj/P3---Clasificaci-n-de-los-lenguajes-por-ofertas-de-trabajo./blob/main/Ruby%20Mundial.png)
 
  # TABLA COMPARATIVA
+## Nivel Español
+| Lenguajes | Resultados |
+| --------- | -----------|
+| Phyton     | 3.174     |
+|JavaScript  | 3.149     |
+|Java        | 3.122     |
+|C y C++     | 681       |
+|C#          | 482       |
+|PHP         | 365       |
+|VB.NET      | 153       |
+|Ruby        | 13        |
 
-| Lenguajes | Col 2 |
-| --------- | ------|
-| A     | B     |
+## Nivel Mundial
+| Lenguajes | Resultados |
+| --------- | -----------|
+| Phyton    | 155.840    |
+|Java       | 150.813    |
+|JavaScript | 149.608    |
+|C y C++    | 30.641     |
+|C#         | 22.655     |
+|PHP        | 9.873      |
+|VB.NET     | 6.201      |
+|Ruby       | 421        |
+
+
+
